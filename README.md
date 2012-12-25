@@ -6,3 +6,4 @@ DBMS modules including
 • An Indexing (IX) component(B+ tree) managing persistent indexes over unordered data records stored in files
 • A Query Engine (QE) component answering SQL queries
 
+I did this project on my own in my first graduate quarter.
